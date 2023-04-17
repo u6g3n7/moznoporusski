@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋Hello world!
+##_My name is Kirill, I'am 15_
 
-<!--
-**moznoporusski/moznoporusski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm сurrently improoving my CTF skills and participate in competitions alone(
+- 🌱 I’m currently learning Python pl with the help of the YandexAcademy
+- 👯 I'am looking for a team for joint development in information security and participation in competitions
+
+<a href="https://tryhackme.com/p/moznoporusski">
+  <script src="https://tryhackme.com/badge/1688651"></script>
+</a>
+</br>
+<a href="https://echoctf.red/profile/1428820">
+ <img width="40%" src="https://echoctf.red/profile/1428820/badge" alt="EchoCTF">
+</a>
+</br>
+<a href="https://www.codewars.com/users/moznoporusski">
+ <img src="https://www.codewars.com/users/moznoporusski/badges/micro" alt="CodeWars">
+</a>
+
+
