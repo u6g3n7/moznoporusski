@@ -1,5 +1,5 @@
 # 👋Hello world!
-##_My name is Kirill, I'am 15_
+## _My name is Kirill, I'am 15_
 
 
 
@@ -8,7 +8,7 @@
 - 👯 I'am looking for a team for joint development in information security and participation in competitions
 
 <a href="https://tryhackme.com/p/moznoporusski">
-  <script src="https://tryhackme.com/badge/1688651"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/moznoporusski.png" alt="TryHackMe">
 </a>
 </br>
 <a href="https://echoctf.red/profile/1428820">
