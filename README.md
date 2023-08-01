@@ -12,7 +12,7 @@
 </a>
 </br>
 <a href="https://echoctf.red/profile/1428820">
- <img width="30%" src="https://echoctf.red/profile/1428820/badge" alt="EchoCTF">
+ <img width="70%" src="https://echoctf.red/profile/1428820/badge" alt="EchoCTF">
 </a>
 </br>
 <a href="https://www.codewars.com/users/moznoporusski">
