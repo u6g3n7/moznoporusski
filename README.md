@@ -8,7 +8,7 @@
 - 👯 I'am looking for a team for joint development in information security and participation in competitions
 
 <a href="https://tryhackme.com/p/moznoporusski">
-  <img width="60% src="https://tryhackme-badges.s3.amazonaws.com/moznoporusski.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/moznoporusski.png" alt="TryHackMe">
 </a>
 </br>
 <a href="https://echoctf.red/profile/1428820">
@@ -16,7 +16,7 @@
 </a>
 </br>
 <a href="https://www.codewars.com/users/moznoporusski">
- <img src="https://www.codewars.com/users/moznoporusski/badges/micro" alt="CodeWars">
+ <img width="60% src="https://www.codewars.com/users/moznoporusski/badges/micro" alt="CodeWars">
 </a>
 
 
