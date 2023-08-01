@@ -12,11 +12,11 @@
 </a>
 </br>
 <a href="https://echoctf.red/profile/1428820">
- <img width="60%" src="https://echoctf.red/profile/1428820/badge" alt="EchoCTF">
+ <img width="30%" src="https://echoctf.red/profile/1428820/badge" alt="EchoCTF">
 </a>
 </br>
 <a href="https://www.codewars.com/users/moznoporusski">
- <img width="60% src="https://www.codewars.com/users/moznoporusski/badges/micro" alt="CodeWars">
+ <img src="https://www.codewars.com/users/moznoporusski/badges/micro" alt="CodeWars">
 </a>
 
 
