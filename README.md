@@ -9,11 +9,11 @@
 
 </br>
 <a href="https://tryhackme.com/p/moznoporusski">
- <img src="https://tryhackme-badges.s3.amazonaws.com/moznoporusski.png" alt="TryHackMe">
+ <img width="25%" src="moznoporusski.png" alt="TryHackMe">
 </a>
 </br>
 <a href="https://echoctf.red/profile/1428820">
- <img width="70%" src="https://echoctf.red/profile/1428820/badge" alt="EchoCTF">
+ <img width="25%" src="https://echoctf.red/profile/1428820/badge" alt="EchoCTF">
 </a>
 </br>
 <a href="https://www.codewars.com/users/moznoporusski">
